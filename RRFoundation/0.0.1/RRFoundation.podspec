@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   Adds various classes and class extensions for the Apple Foundation framework,
   iOS or OS X. The classes support both platforms.
   DESCRIPTION
-  s.homepage = ''
+  s.homepage = 'http://github.com/PioneeringSoftware/RRFoundation'
   s.license = {
     :type => 'MIT',
     :file => 'MIT-LICENSE.txt',
