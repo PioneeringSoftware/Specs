@@ -9,8 +9,7 @@ Pod::Spec.new do |s|
   DESCRIPTION
   s.homepage = 'http://github.com/PioneeringSoftware/RRFoundation'
   s.license = {
-    :type => 'MIT',
-    :file => 'MIT-LICENSE.txt'
+    :type => 'MIT'
   }
   s.author = {
     'Roy Ratcliffe' => 'roy@pioneeringsoftware.co.uk'
